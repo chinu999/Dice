@@ -41,11 +41,11 @@ class _MyAppState extends State<MyApp> {
           title: Text(
             'Dice',
             style: TextStyle(
-              color: Colors.black,
+         
               fontFamily: 'Revamped',
             ),
           ),
-          backgroundColor: Colors.cyanAccent,
+          backgroundColor: Colors.black,
         ),
         drawer: Theme(
           data: Theme.of(context).copyWith(
